@@ -5,7 +5,6 @@
 
 #### prerequisites (newer versions might work)
 ruby version 2.4.2
-
 rails version 5.2.4
 
 postgresql installed and configured
