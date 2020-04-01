@@ -4,7 +4,7 @@
 ### Setup of project
 
 #### prerequisites (newer versions might work)
-This project was created on a Linux OS, process might be differnent on MacOS or Windows.
+This project was created on a Linux OS, the setup process might be differnent on MacOS or Windows.
 ruby version 2.4.2
 
 rails version 5.2.4
